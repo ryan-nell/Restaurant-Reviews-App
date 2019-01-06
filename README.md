@@ -5,7 +5,7 @@ This is a web based application that allows user to see reviews of restaurants. 
 # Getting Started
 - Download the project to your machine.
 - Open terminal
-- Run -m SimpleHTTPServer 8000 using python 2.7.x
+- Run '-m SimpleHTTPServer 8000' using python 2.7.x
 - Open browser and navigate to localhost:8000
 
 # Resources
