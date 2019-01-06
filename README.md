@@ -9,7 +9,7 @@ This is a web based application that allows user to see reviews of restaurants. 
 - Open browser and navigate to localhost:8000
 
 # Resources
-- [developers.google.com/web/ilt/pwa/caching-files-with-service-worker](developers.google.com/web/ilt/pwa/caching-files-with-service-worker)
+- [Service Worker](developers.google.com/web/ilt/pwa/caching-files-with-service-worker)
 
 # Project Dependencies
 - Atom
